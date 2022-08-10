@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/ZauteKm/auto-filter-bot-v3",
-    "repository": "https://github.com/Kuttudb/auto-filter-bot-v3",
+    "website": "https://github.com/theseeker99/auto-filter-bot-v3",
+    "repository": "https://github.com/theseeker99/auto-filter-bot-v3",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -50,7 +50,7 @@
         },
         "START_MSG": {
             "description": "Welcome message for start command",
-            "value": "**Hi, I'm [auto-filter-bot-v3](https://github.com/zautekm/auto-filter-bot-v3)**\n\nHere you can search files in Inline mode as well as PM, Use the below buttons to search files or send me the name of file to search.",
+            "value": "**Hi, I'm [seeker-filter-bot-](https://github.com/theseeker99/auto-filter-bot-v3)**\n\nHere you can search files in Inline mode as well as PM, Use the below buttons to search files or send me the name of file to search.",
             "required": false
         },
         "USE_CAPTION_FILTER": {
