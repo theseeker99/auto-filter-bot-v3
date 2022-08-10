@@ -32,23 +32,23 @@ HELP = """
 
 **Commands (Only Bot Owner)**
 
-/broadcast: Replay Any Message or Media.
-/stats: User Status.
-/ban:  Click ban more info.
-/unban: Click unban more info.
-/banned: Banned User Details.
-/total: How Many Files Added In Database.
-/logger:  Get Logs.
-/delete: Delete File From Database.
+/broadcast: Replay Any Message or Media 😊.
+/stats: User Status ✨.
+/ban:  Click ban more info 😒 .
+/unban: Click unban more info 👌.
+/banned: Banned User Details 🤷‍♀️.
+/total: How Many Files Added In Database 😎.
+/logger:  Get Logs 😍.
+/delete: Delete File From Database ❤️.
 
 """
 
 ABOUT = """
 **About Bot 🤖**
 
-**▷🤖 Name: [auto-filter-bot-v3](https://github.com/zautekm/auto-filter-bot-v3).
+**▷🤖 Name: [seeker-filter-bot](https://github.com/theseeker99/auto-filter-bot-v3).
     
-▷👨‍💻 Creator : [Zaute Km](https://t.me/ZauteKm)
+▷👨‍💻 Creator : [The Seeker](https://t.me/MrUnknown114)
 
 ▷🌏 Language : Python3
 
